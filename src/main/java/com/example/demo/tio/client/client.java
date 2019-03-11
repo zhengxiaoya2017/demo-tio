@@ -23,9 +23,6 @@ public class client {
 
     //public static ClientGroupContext clientGroupContext = new ClientGroupContext(new MClientAioHandler(), null, reconnConf);
 
-
-
-
     public static void main(String[] args) throws Exception {
         //ClientGroupContext clientGroupContext = new ClientGroupContext(new MClientAioHandler(),null);
         ClientGroupContext clientGroupContext = new ClientGroupContext(new MClientAioHandler(), null, reconnConf);
