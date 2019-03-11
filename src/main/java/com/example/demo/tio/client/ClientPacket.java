@@ -1,4 +1,4 @@
-package com.example.demo.tio;
+package com.example.demo.tio.client;
 
 import org.tio.core.intf.Packet;
 

@@ -1,4 +1,4 @@
-package com.example.demo.tio;
+package com.example.demo.tio.client;
 
 import org.tio.client.intf.ClientAioHandler;
 import org.tio.core.ChannelContext;
